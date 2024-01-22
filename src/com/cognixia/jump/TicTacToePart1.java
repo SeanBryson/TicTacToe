@@ -5,8 +5,8 @@ import java.awt.event.*;
 import java.util.*;
 import javax.swing.*;
 
-public class TicTacToePart1 implements ActionListener {
 
+public class TicTacToePart1 implements ActionListener {
 		
 	// GUI Objects
 	JFrame frame = new JFrame();
