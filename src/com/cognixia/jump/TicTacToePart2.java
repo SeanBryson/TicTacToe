@@ -94,7 +94,6 @@ public class TicTacToePart2 implements ActionListener {
 			textField.setText("O turn");
 		}
 		
-		
 	}
 	
 	public void check() {

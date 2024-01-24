@@ -15,7 +15,7 @@ public class TicTacToe implements ActionListener {
 	JPanel resetPanel = new JPanel(); // panel added for our reset button
 	JLabel textField = new JLabel();
 	JButton[] buttons = new JButton[9];
-	JButton resetButton = new JButton(); // button added for to reset board
+	JButton resetButton = new JButton(); // button added to reset board
 	
 	// Used to randomly select the first player
 	Random random = new Random();
